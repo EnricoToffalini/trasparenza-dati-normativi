@@ -1,6 +1,7 @@
 ---
 title: "La Diatriba su Trasparenza e Politiche Editoriali nella Testistica Psicologica"
 subtitle: "i contributi disponibili, dal caso WISC-V a oggi"
+author: "<a href='https://enricotoffalini.github.io/' target='blank'>Enrico Toffalini</a>"
 format: 
   html:
     css: custom.css
