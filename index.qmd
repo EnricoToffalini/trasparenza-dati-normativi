@@ -20,6 +20,13 @@ Nelle lettere e nei contributi successivi sono stati segnalati alcuni nodi ricor
 
 Queste criticità sono state discusse in articoli scientifici, lettere aperte, prese di posizione professionali e iniziative formative, configurando un dibattito strutturato e documentato. Di seguito sono riportati, in ordine cronologico inverso, i principali contributi emersi in questo contesto.
 
+::: {.callout collapse="true"}
+## Note
+
+- Se siete al corrente di ulteriori contributi non elencati sotto, vi prego di segnalarmeli via mail: <a href="mailto:enrico.toffalini@unipd.it">enrico.toffalini\@unipd.it</a>
+- Se siete autrici/autori di contributi (articoli, pre-print, o anche slide presentate in qualsiasi occasione), è molto apprezzato se ne rendete contenuti accessibili online ("open") in qualche modo: <a href="https://github.com/" target="_blank">GitHub</a>, <a href="https://osf.io/" target="_blank">OSF</a>, <a href="https://drive.google.com/" target="_blank">Google Drive</a> condiviso, come volete... se me li segnalate, sarò felice di aggiungere i link ai documenti accessibili! 
+:::
+
 ---
 
 # Contributi 
