@@ -1,0 +1,98 @@
+---
+title: "La Diatriba su Trasparenza e Politiche Editoriali nella Testistica Psicologica"
+subtitle: "i contributi disponibili, dal caso WISC-V a oggi"
+format: 
+  html:
+    css: custom.css
+lang: it
+---
+
+Da gennaio 2024 si è aperta in Italia una **diatriba tra una parte consistente della comunità degli psicologi accademici e clinici e alcune case editrici di test psicologici**, in particolare *Giunti Psychometrics*, in merito alle politiche editoriali adottate per diversi strumenti di testing. Il "casus belli" iniziale ha riguardato la WISC-V in edizione italiana, con **modalità di scoring esclusivamente online e senza la disponibilità completa dei dati normativi e delle informazioni psicometriche** tradizionalmente incluse nei manuali, e si è poi esteso ad altri strumenti e ad analoghe scelte editoriali. 
+
+Nelle lettere e nei contributi successivi sono stati segnalati alcuni nodi ricorrenti: 
+
+- l’**assenza o incompletezza delle tabelle di conversione e delle statistiche descrittive minime** necessarie per una valutazione indipendente di attendibilità e validità (es. statistiche descrittive dei punteggi grezzi, matrici di correlazione divise per fascia di età); 
+- l’uso di **algoritmi di scoring non riproducibili e non garantiti in modo indipendente**, che trasferiscono parte rilevante del processo valutativo in una ***"black box"*** esterna al controllo del professionista; 
+- le ricadute di tali scelte sulla **responsabilità clinica**, sulla possibilità di esercitare un **ragionamento diagnostico autonomo** e sulla **tutela del paziente**; 
+- le conseguenze per la **didattica universitaria** e per la **ricerca**, in particolare in relazione alla **riproducibilità dei risultati** e **verifica indipendente** delle proprietà psicometriche degli strumenti, a garanzia di pazienti e clinici; 
+- il problema posto da specifici **test di grande rilevanza storica**, come le scale Wechsler, in un contesto di **diritti editoriali esclusivi**. 
+
+Queste criticità sono state discusse in articoli scientifici, lettere aperte, prese di posizione professionali e iniziative formative, configurando un dibattito strutturato e documentato. Di seguito sono riportati, in ordine cronologico inverso, i principali contributi emersi in questo contesto.
+
+---
+
+# Contributi 
+
+## 2025
+
+- Zanon, F., & Priftis, K. (2025). **Gli psicologi devono opporsi all’uso di test senza norme in chiaro**. *Giornale Italiano di Psicologia, 52*(2). <a href="https://www.rivisteweb.it/doi/10.1421/116921" target="_blank">https://www.rivisteweb.it/doi/10.1421/116921</a> (DOI:10.1421/116921)
+
+- ***La qualità del testing psicologico. Deontologia, applicazioni e recenti criticità nell’uso dei test in ambito psicologico*** (2025). <a href="https://www.spazioiris.it/wp-content/uploads/2025/03/LA-QUALITA-DEL-TESTING-PSICOLOGICO.pdf" target="_blank">🔗 Locandina online</a>; <a href="https://www.spazioiris.it/project/la-qualita-del-testing-psicologico/" target="_blank">🔗 Link evento pubblico</a> Seminario ECM, Spazio IRIS, 11 aprile 2025 - organizzato da Renzo Tucci e Michela Cendron.
+  Interventi di: Prior, M.; Cubelli, R.; Toffalini, E.; Di Nuovo, S.; Scarpazza, C.; Priftis, K. 
+  - Slide accessibili online: <a href="https://enricotoffalini.github.io/slides/quando-vorremmo-piu-dati.pdf" target="_blank">Toffalini, E. (2025). Quando vorremmo più dati: alcuni esempi</a>
+
+---
+
+## 2024
+
+- Frinco, M., Sironi, E. M., & Frinco, R. (2024). **Informazioni psicometriche dei test. Perché sono indispensabili per la clinica e la didattica**. *Psicologia Clinica dello Sviluppo*, 28*(1). <a href="https://www.rivisteweb.it/doi/10.1449/113146" target="_blank">https://www.rivisteweb.it/doi/10.1449/113146</a> (DOI:10.1449/113146) 
+
+- Seconda lettera di accademici e professionisti a Giunti Psychometrics (2024) - **Richiesta di adeguate informazioni psicometriche per gli strumenti di valutazione clinica**. <a href="https://drive.google.com/file/d/14_i4Y8VcM_5E4IDSYwrzVKFuSA5NPQoW/edit">🔗 Documento pubblico</a> <a href="https://unipadova.qualtrics.com/jfe/form/SV_b8dGDPrIgL4lBNI" target="_blank">🔗 Raccolta firme</a>. Documento sottoscritto da accademici e professionisti dell'area clinica. Promotrici/promotori: *Paola Angelelli, Paola Bonifacci, Barbara Carretti, Massimiliano Conson, Davide Crepaldi, Irene Mammarella, Maria Chiara Passolunghi, Massimiliano Pastore, Maja Roch, Chiara Suttora, Carla Tinti, Valentina Tobia, Enrico Toffalini, Maria Carmen Usai*.
+
+::: {.callout collapse="true"}
+## ▶ Leggi il testo completo della seconda lettera
+**Oggetto:** Richiesta di Adeguate Informazioni Psicometriche per gli Strumenti di Valutazione Clinica
+
+Alla c.a. della casa editrice **Giunti Psychometrics**,
+
+Recentemente alcuni di noi Vi hanno inoltrato la richiesta di apertura di un **confronto con la comunità accademica** in merito alle politiche editoriali che la Vostra casa editrice sta adottando, con particolare riferimento agli strumenti di valutazione clinica, tra i quali la batteria WISC-V. La comunicazione era accompagnata da una lista di oltre 1.200 firmatari, di cui diverse **centinaia appartenenti al mondo della ricerca in ambito psicologico**. Diversamente, nella presente lettera sono dettagliate e motivate le richieste e le loro ragioni dal punto di vista del **mondo professionale**.
+
+Nelle pubblicazioni della testistica recente, *Giunti Psychometrics* sta fornendo manuali di contributo alla taratura italiana **insufficienti dal punto di vista della trasparenza dell'informazione psicometrica**, mancando dati normativi, tabelle di conversione punteggi grezzi-standardizzati, statistiche descrittive, e statistiche sufficienti per la valutazione indipendente di attendibilità e validità dei punteggi. La situazione così generata è **deontologicamente inammissibile per l’ambito clinico**, in cui il professionista è costretto ad assumersi la **responsabilità** di formulare **diagnosi** che hanno **valore legale**, oltre ad un enorme **impatto sulla vita delle persone** (pensiamo ai casi di **disabilità cognitiva**, sia in ambito evolutivo che in età adulta), usando strumenti di cui è **reso di fatto incapace di valutare correttezza, plausibilità e validità dell’interpretazione restituita ai pazienti**.
+
+Lo ***scoring online*** così fornito dalla Vostra casa Editrice si configura come una sorta di ***"black box"*** che genera punteggi standardizzati e profili attraverso **algoritmi opachi impossibili da verificare**, potenzialmente suscettibili di tacite variazioni totalmente sottratte al controllo di professionisti e ricercatori, e **il cui unico garante è lo stesso editore che ha venduto il test**. Si configura peraltro una situazione di **potenziale <em>conflitto di interessi</em>**. La Vostra casa editrice, infatti, ha l’interesse a fornire **norme valide e attendibili**, ma anche quello di **ridurre i costi**. Prendiamo l’esempio della WISC-V: essa è venduta allo **stesso prezzo** della WISC-IV, ma il **campione di standardizzazione è stato ridotto da 2.200 a 1.410 soggetti**. Considerata tale **riduzione del 36%** e l’ampio range di età coperto, quanto sono precise le norme? Tanto quanto prima oppure meno? Nella già menzionata comunicazione nata in seno alla Comunità Accademica, veniva richiesta trasparenza anche per poter procedere a numerose **verifiche indipendenti di attendibilità e validità delle norme**, nell’ottica dei principi basilari e ormai **universalmente riconosciuti di trasparenza in ambito scientifico**. Per il professionista, la possibilità di tali verifiche indipendenti è vitale per potersi assumere la **responsabilità anche legale della diagnosi che formula**.
+
+Da un punto di vista prettamente clinico, inoltre, l’impossibilità di accedere ai dati, e la riduzione delle osservazioni ad un profilo generato da un algoritmo ignoto, implica una forte **limitazione nel ragionamento** che porta alla formulazione di una diagnosi, inficiando i delicati aspetti che la caratterizzano. Esistono numerosi esempi in cui un professionista necessita di **monitorare l’andamento di una prova nel corso della somministrazione**, accedendo ai punteggi normativi, o utilizzando opzionalmente una o poche scale/subtest anziché l’intera batteria. In altre parole, come può un professionista scegliere di acquistare uno strumento di cui non può valutare la bontà, e che, a causa di una rigidità di utilizzo imposta dalla stessa Casa Editrice, **rischia di alterare il suo giudizio clinico? Queste limitazioni impediscono l’esercizio della professione secondo i suoi stessi principi deontologici, rendendo impraticabile l’uso di tali strumenti**.
+
+Solleviamo un ulteriore elemento di preoccupazione che riguarda specificamente le scale Wechsler. Come da voi dichiarato nella brochure della WISC-V, **le scale Wechsler sono <em>"Gold Standard internazionale per la misurazione delle capacità cognitive in età evolutiva"</em>**. **Siamo d’accordo** con l’affermazione. Di più: sono strumento *di fatto* non sostituibile per alcune diagnosi cliniche. Questo impone una considerazione sul problema del **monopolio** di strumenti psicometrici il cui uso è ***di fatto*** **irrinunciabile per il sistema sanitario**, e per il professionista, nel momento in cui un singolo editore privato ne detenga esclusivamente i diritti. La situazione è aggravata da quanto già detto prima e dal fatto che le scale Wechsler sono uno strumento storicamente evolutosi in stretto legame con la **riflessione scientifica e la ricerca**.
+
+Alla luce delle ragioni esposte sopra, chiediamo che la Vostra casa editrice renda **pubblicamente accessibili**, attraverso strumenti idonei (es. pubblicazioni in riviste scientifiche, *addenda* ai manuali, schede online), le seguenti informazioni per tutti gli strumenti di valutazione implicati nelle **diagnosi cliniche**: tabelle di **conversione punteggio grezzo–ponderato distinti per fasce d’età, e conversione degli indici fattoriali** (laddove presenti), valori **medi, matrici di varianza e covarianza** dei punteggi grezzi per ciascuna fascia di età.
+
+In assenza di un riscontro soddisfacente, i firmatari percorreranno, eventualmente in accordo con rappresentanti di associazioni e delle realtà accademiche, tutte le strade che riterranno opportune per poter avere a disposizione i dati ritenuti necessari per un uso **deontologicamente responsabile** degli strumenti di valutazione psicometrica.
+
+> *Promotrici/promotori: Paola Angelelli, Paola Bonifacci, Barbara Carretti, Massimiliano Conson, Davide Crepaldi, Irene Mammarella, Maria Chiara Passolunghi, Massimiliano Pastore, Maja Roch, Chiara Suttora, Carla Tinti, Valentina Tobia, Enrico Toffalini, Maria Carmen Usai*
+:::
+
+- Prima lettera di accademici e professionisti a Giunti Psychometrics (2024) - **Politiche editoriali della testistica di Giunti Psychometrics**. Documento sottoscritto da accademici e professionisti dell'area clinica. Stesura iniziale a cura di *Barbara Carretti, Irene Mammarella, ed Enrico Toffalini*. 
+
+::: {.callout collapse="true"}
+## ▶ Leggi il testo completo della prima lettera
+
+**Oggetto:** Politiche editoriali della testistica di Giunti Psychometrics  
+
+Alla c.a. della casa editrice **Giunti Psychometrics**,
+
+La presente lettera solleva e porta all'attenzione un problema che riguarda le recenti politiche editoriali della Vostra casa editrice.
+
+Nelle pubblicazioni della testistica recente, Giunti Psychometrics sta fornendo manuali di contributo alla taratura italiana sempre più insufficienti dal punto di vista della trasparenza sull’informazione psicometrica. La politica è quella di obbligare clinici e ricercatori a utilizzare una modalità di scoring a pagamento, esclusivamente online e completamente in cieco rispetto ai dati normativi utilizzati. Facciamo riferimento ad alcune pubblicazioni recenti (come ad es. la WPPSI-IV) in cui non sono riportati dati fondamentali come le tabelle di conversione da punteggio grezzo–ponderato, né i valori medi e le deviazioni standard per fascia di età dei punteggi grezzi, né le tabelle di correlazione tra i subtest e gli indici fattoriali.
+
+Nello specifico, le batterie *"Wechsler Intelligence Scale"* sono le prove più diffuse e utilizzate per la misura delle abilità intellettive e vengono utilizzate in vari ambiti e per obiettivi molto diversificati. Per la loro diffusione e storia, le scale Wechsler acquisiscono una rilevanza anche culturale all’interno della psicologia, e rappresentano un set di strumenti non sostituibili data la mancanza di equivalenti. Ciò rende la situazione di monopolio ancora più problematica. In questo contesto riteniamo l’insufficienza dei dati psicometrici forniti di estrema gravità per vari motivi:
+
+— In primo luogo, viene impedito ai docenti dei Corsi di studi di Psicologia di svolgere didattica e formazione in modo corretto ed esaustivo, proprio in un momento in cui è entrata in vigore la laurea abilitante. Nell’ambito della formazione universitaria, abbiamo sempre sottolineato l’importanza che studentesse e studenti capissero il significato dei punteggi psicometrici e il senso di un dato standardizzato. Ora questo diventerà impossibile da comunicare, ed è specialmente critico nel momento della laurea abilitante, in cui i nostri studenti si troveranno abilitati alla professione di psicologo non avendo avuto alcuna possibilità di provare a comprendere il funzionamento dei più diffusi strumenti di valutazione, che presumibilmente si troveranno a dover utilizzare nella pratica clinica. Tra gli atti tipici della professione, il CNOP, nel documento del 5 giugno 2015 *"La professione di psicologo: declaratoria, elementi caratterizzanti, e atti tipici"*, individua la diagnosi, e come si legge nel documento: "Al fine di poter definire un processo diagnostico, lo psicologo si avvale del colloquio psicologico e del proprio strumentario psicodiagnostico (**test e altri strumenti standardizzati**), d’uso esclusivo, per l’analisi del comportamento, dei processi cognitivi e intrapsichici, delle opinioni e degli atteggiamenti, dei bisogni e delle motivazioni, dell’interazione sociale, dell’idoneità psicologica a specifici compiti e condizioni".
+
+— In secondo luogo, viene limitata la possibilità di fare ricerca. La disponibilità di informazioni quali i riferimenti a dati medi standardizzati e matrici di correlazione permetteva di tracciare traiettorie di sviluppo e valutare modelli come benchmark normativa rispetto ai casi di interesse. Nell’epoca della valorizzazione dell'*Open Science* (si vedano le Raccomandazioni 2018/790 della Commissione Europea sull’accesso all’informazione scientifica e alla sua conservazione), la scelta della casa editrice Giunti Psychometrics risulta non in linea con la possibilità di sviluppare ricerche riproducibili, verificabili o replicabili, ai fini dell’avanzamento della scienza. La disponibilità dei dati normativi permetteva alla comunità scientifica di effettuare delle valutazioni indipendenti sulla credibilità e adeguatezza delle caratteristiche psicometriche degli strumenti utilizzati. Ora viene chiesto a ricercatori e professionisti di fidarsi ciecamente di quanto proposto da una casa editrice privata, senza la possibilità di visionare le proprietà statistiche e psicometriche degli strumenti, né di poter fornire delle valutazioni scientifiche indipendenti sui dati stessi.
+
+— In terzo luogo, ciò sminuisce il ruolo di attuali e future psicologhe e psicologi nell’ambito della valutazione psicometrica, riducendoli al ruolo di somministratori e, al più, di comunicatori di report che verranno stilati da una *"black box"* online. Come può, ad esempio, una/o psicologa/o professionista prendere decisioni su come procedere nelle fasi di somministrazione della batteria, e magari sostituire subtest, senza avere progressivamente sott’occhio l’andamento dei punteggi standardizzati? Come può un professionista decidere se scegliere uno strumento rispetto ad un altro in assenza di informazioni trasparenti sulla distribuzione dei dati normativi? Come può rispondere una/o psicologa/o delle sue conclusioni, se non può accedere liberamente ai dati della standardizzazione che permette di interpretare un punteggio?
+
+Alla luce delle considerazioni esposte in precedenza, chiediamo alla casa editrice Giunti Psychometrics di aprire un confronto con la Comunità Scientifica, prima della pubblicazione della batteria WISC-V, allo scopo di poter discutere le problematiche che riscontriamo rispetto alle attuali politiche editoriali.
+
+> *Stesura iniziale a cura di Barbara Carretti, Irene Mammarella, ed Enrico Toffalini*
+:::
+
+- Guḍākesha, A. (2024). **Ci sono inesattezze nelle standardizzazioni italiane di WISC-IV e WPPSI-IV? (ovvero perché le case editrici dovrebbero essere trasparenti sui dati normativi)**. Manuscript non peer-reviewed, circolazione pubblica: <a href="https://osf.io/9btsj/files/r9y3c" target="_blank">https://osf.io/9btsj/files/r9y3c</a>
+  
+
+---
+
+## Precedenti rilevanti
+
+- Giofrè, D., Toffalini, E., & Provazza, S. (2017). **La WISC-IV sovrastima le competenze dei ragazzi italiani? Discrepanze tra la standardizzazione UK e quella italiana della scala**. *Psicologia Clinica dello Sviluppo*, 21(1). <a href="https://www.rivisteweb.it/doi/10.1449/86189" target="_blank">https://www.rivisteweb.it/doi/10.1449/86189</a> (DOI:10.1449/86189) <a href="https://www.researchgate.net/publication/317758043_Are_the_WISC-IV_Italian_norms_similar_to_the_UK_norms_A_comparison_between_the_two_standardizations" target="_blank">🔗 Post-print accessibile liberamente via  ResearchGate</a>
