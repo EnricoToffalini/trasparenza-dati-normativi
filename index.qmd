@@ -10,15 +10,15 @@ lang: it
 
 Da gennaio 2024 si è aperta in Italia una **diatriba tra una parte consistente della comunità degli psicologi accademici e clinici e alcune case editrici di test psicologici**, in particolare *Giunti Psychometrics*, in merito alle politiche editoriali adottate per diversi strumenti di testing. Il "casus belli" iniziale ha riguardato la WISC-V in edizione italiana, con **modalità di scoring esclusivamente online e senza la disponibilità completa dei dati normativi e delle informazioni psicometriche** tradizionalmente incluse nei manuali, e si è poi esteso ad altri strumenti e ad analoghe scelte editoriali. 
 
-Nelle lettere e nei contributi successivi sono stati segnalati alcuni nodi ricorrenti: 
+Nelle lettere e nei contributi successivi sono stati segnalati: 
 
-- l’**assenza o incompletezza delle tabelle di conversione e delle statistiche descrittive minime** necessarie per una valutazione indipendente di attendibilità e validità (es. statistiche descrittive dei punteggi grezzi, matrici di correlazione divise per fascia di età); 
-- l’uso di **algoritmi di scoring non riproducibili e non garantiti in modo indipendente**, che trasferiscono parte rilevante del processo valutativo in una ***"black box"*** esterna al controllo del professionista; 
-- le ricadute di tali scelte sulla **responsabilità clinica**, sulla possibilità di esercitare un **ragionamento diagnostico autonomo** e sulla **tutela del paziente**; 
-- le conseguenze per la **didattica universitaria** e per la **ricerca**, in particolare in relazione alla **riproducibilità dei risultati** e **verifica indipendente** delle proprietà psicometriche degli strumenti, a garanzia di pazienti e clinici; 
-- il problema posto da specifici **test di grande rilevanza storica**, come le scale Wechsler, in un contesto di **diritti editoriali esclusivi**. 
+- **assenza o incompletezza delle tabelle di conversione e delle statistiche descrittive minime** necessarie per una valutazione indipendente di attendibilità e validità (es. statistiche descrittive dei punteggi grezzi, matrici di correlazione divise per fascia di età); 
+- uso di **algoritmi di scoring non riproducibili e non garantiti in modo indipendente**, che trasferiscono parte rilevante del processo valutativo in una ***"black box"*** esterna al controllo del professionista; 
+- ricadute di tali scelte sulla **responsabilità clinica**, sulla possibilità di esercitare un **ragionamento diagnostico autonomo** e sulla **tutela del paziente**; 
+- conseguenze per la **didattica universitaria** e per la **ricerca**, in particolare in relazione alla **riproducibilità dei risultati** e **verifica indipendente** delle proprietà psicometriche degli strumenti, a garanzia di pazienti e clinici; 
+- danno alla ricerca scientifica posto dalla segretezza dei dati riguardanti **test di grande rilevanza storica**, come le scale Wechsler, in un contesto di **diritti editoriali esclusivi**. 
 
-Queste criticità sono state discusse in articoli scientifici, lettere aperte, prese di posizione professionali e iniziative formative, configurando un dibattito strutturato e documentato. Di seguito sono riportati, in ordine cronologico inverso, i principali contributi emersi in questo contesto.
+Di seguito sono riportati, in ordine cronologico inverso, i principali contributi emersi in questo contesto.
 
 ::: {.callout collapse="true"}
 ## Note
